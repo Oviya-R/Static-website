@@ -1,0 +1,41 @@
+h3{
+    text-align: center;
+}
+.image{
+    float: right;
+}
+
+.nav{
+    color: white;
+}
+.table1{
+    padding-left: 70px;
+}
+.table2{
+    padding-left: 70px;
+}
+.productsbg{
+    background-color: grey;
+}
+.form1{
+    padding-left: 500px ;
+}
+
+.submit1:hover{
+    background-color: black;
+    color: white;
+}
+.submit2:hover{
+    background-color: black;
+    color: white;
+}
+.img{
+    padding-bottom: 30px;
+    background-color: black;
+}
+.menu{
+    
+    padding-left: 400px;
+    margin-top: 20px;
+}
+
